@@ -1,0 +1,40 @@
+{
+  "scopes": {
+    "buzunov:all_pages": {
+      "buzunov": {
+        "274287945757817": "ArtsyNudes",
+        "305256139648283": "Alex Buzunov's Art",
+        "200787766442663": "Ukrainian Pinup Artist",
+        "100298845562166": "buzunov.art",
+        "105420925572228": "Art For Ukraine"
+      }
+    },
+    "buzunov:main_3": {
+      "buzunov": {
+        "105420925572228": "Art For Ukraine",
+        "305256139648283": "Alex Buzunov's Art",
+        "200787766442663": "Ukrainian Pinup Artist"
+      }
+    },
+    "buzunov:ukr": {
+      "buzunov": {
+        "105420925572228": "Art For Ukraine",
+        "200787766442663": "Ukrainian Pinup Artist",
+        "305256139648283": "Alex Buzunov's Art",
+        "100298845562166": "buzunov.art"
+      }
+    },
+    "buzunov:UPA": {
+      "buzunov": {
+        "200787766442663": "Ukrainian Pinup Artist"
+      }
+    },
+    "buzunov:ukr-TEST": {
+      "buzunov": {
+        "105420925572228": "Art For Ukraine",
+        "305256139648283": "Alex Buzunov's Art",
+        "100298845562166": "buzunov.art"
+      }
+    }
+  }
+}

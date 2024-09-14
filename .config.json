@@ -1,0 +1,39 @@
+{
+  "user": "buzunov",
+  "user_tokens": {
+    "buzunov": "EAAHbeMlmZCbYBO3IIMH4jsOdvEWu0uZC8O88fW13KB25zSfYTvJ6gDZCSD9LGUZAoUunqVP2UvZCueuC1yT6zbY2HsRwyYV8TwU5kcZAJ5f38eBF81HISkemajXoS28XSJpZAGSbKR5x6Mgtt8120lVZCSvIdKNq8ZC8o27fyT2ZCuzwGzWgXMPOJxhUvK3S8VLTyXb6GZBBoxw4kGQRxYoWLpOCNLpgC7cnuTY",
+    "olek.buzu": ""
+  },
+  "page_id": "305256139648283",
+  "num_of_uploads": {
+    "buzunov": {
+      "105420925572228": {
+        "2024-09-04": {
+          "uploads": 0
+        }
+      }
+    }
+  },
+  "followers_count": {
+    "buzunov": {
+      "105420925572228": {
+        "2024-09-04": {
+          "followers": 0,
+          "delta": 0,
+          "increment": 0
+        }
+      }
+    }
+  },
+  "input_files": {
+    "0": "C:\\Users\\alex_\\Downloads\\processed\\0 - 2024-09-14T115554.964_processed_for_reels.mp4",
+    "0": "C:\\Users\\alex_\\myg\\facebook_downloader\\downloads\\ArtForUkraine\\backup\\4c3ed2a0-60ee-416f-af4d-9e47afcdc8ba_b9f4803d-840b-4e5c-a14e-c2f92f4a6e4f.mp4"
+  },
+  "scope_rowid": 88,
+  "scope_name": "buzunov:ukr-AU",
+  "all_reel_descr": {
+    "buzunov": {
+      "305256139648283": "\ud83d\udc99\ud83d\udc9b#StandWithUkraine\ud83d\udc99\ud83d\udc9b  "
+    }
+  }
+}
