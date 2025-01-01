@@ -1,0 +1,9 @@
+downloads
+*.pyc
+facebook-reels-api/
+myenv/
+*.json
+*.json
+.page_tokens.json
+cookies.txt
+
